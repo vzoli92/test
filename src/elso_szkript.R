@@ -1,0 +1,1 @@
+# Ez az első GIT-es scriptem.
